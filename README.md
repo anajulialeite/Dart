@@ -1,6 +1,6 @@
 # Dart
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" align="left" width="170"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" align="left" width="160"/>
 
 Este repositório foi craido para colocar os exercícios ministrados em sala de aula e mostrar os códigos que eu aprendi na linguagem de programação Dart, com o professor Thallys Silva Braz!
 
