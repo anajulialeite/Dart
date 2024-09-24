@@ -1,0 +1,3 @@
+//Descreva o Princípio Aberto/Fechado. Como ele pode ser aplicado para que um sistema seja fácil de expandir, sem a necessidade de modificar código existente? Ilustre sua resposta com um exemplo teórico.
+
+//Ele afirma que uma classe deve ser aberta para extensão, mas fechada para modificação. Isso significa que podemos adicionaos novas funcionalidades a uma classe sem alterar seu código existente, minimizando o risco de introduzir bugs em funcionalidades já testadas. Para aplicar o OCP, geralmente utilizamos Abstração, Herança e Composição.
