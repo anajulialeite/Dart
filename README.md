@@ -11,3 +11,7 @@ Link da documentação oficial da linguagem de programação Dart: https://dart.
 Link de como eu insteli o Flutter: https://docs.flutter.dev/get-started/install/windows/desktop
 
 Link de como instalar o Flutter: https://youtu.be/dpppZ9ySJSY?si=6d7poCZ0Yz19iUwK
+
+# License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
