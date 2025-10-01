@@ -14,6 +14,6 @@ Link de como eu instelei o <a href= "https://docs.flutter.dev/get-started/instal
 
 Link de como instalar o <a href= "https://youtu.be/dpppZ9ySJSY?si=6d7poCZ0Yz19iUwK"> Flutter</a>
 
-# License
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
